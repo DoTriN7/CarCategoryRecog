@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>InvalidObjectState</Code><Message>The operation is not valid for the object's storage class</Message><StorageClass>GLACIER</StorageClass><RequestId>A64BPP903PK4AT12</RequestId><HostId>mvyO71NIaD3YyxJ2tsSExentQxWvk/bbY7tAN5TzTrAlUbRdcqf69o6PjBAuzbY1zsHSo6rhNY4=</HostId></Error>
